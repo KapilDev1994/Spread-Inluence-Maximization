@@ -1,1 +1,2 @@
 # Spread-Inluence-Maximization
+Influence Maximizaion On  Specific User In Social Network (Java) :  Influence maximization is introduced to maximize the profit of viral marketing in social networks. The weakness of influence maximization is that it does not distinguish specific users from others, even if some items can be only useful for the specific users. For such items , As in this project there is a better strategy to focus on maximizing the influence on the specific users rather than all .  
